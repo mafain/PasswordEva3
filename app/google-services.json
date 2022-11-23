@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532282736055",
+    "project_id": "passwordeva3",
+    "storage_bucket": "passwordeva3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532282736055:android:a3021bef41cba6608b7c32",
+        "android_client_info": {
+          "package_name": "com.inacap.passwordeva3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532282736055-0qg7tiq0p234hb55nakidamp186uugov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inacap.passwordeva3",
+            "certificate_hash": "cd4e4150cce1fda5d288ec47a1790e0d0cc84f9a"
+          }
+        },
+        {
+          "client_id": "532282736055-bvnjo3e1ptjfi9rjpo47bka513d9l5tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4H0A3KzyfFEcKel7VKCWWeqw5oFu0iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532282736055-bvnjo3e1ptjfi9rjpo47bka513d9l5tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
