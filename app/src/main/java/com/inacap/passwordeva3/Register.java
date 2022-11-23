@@ -30,8 +30,6 @@ public class Register extends AppCompatActivity {
         setContentView(R.layout.activity_register);
 
 
-
-
     }
 
     public void registerUser (View v) {
@@ -81,5 +79,10 @@ public class Register extends AppCompatActivity {
             return false;
         }
         return false;
+    }
+
+    public void goToLogin(View v){
+        Intent i = new Intent(this,MainActivity.class);
+        startActivity(i);
     }
 }

@@ -72,17 +72,18 @@
         android:layout_height="wrap_content"
         android:onClick="registerUser"
         android:text="Registrar"
-        app:layout_constraintBottom_toTopOf="@+id/registerCancelBtn"
+        app:layout_constraintBottom_toTopOf="@+id/registerBackBtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/registerInputPassword" />
 
     <Button
-        android:id="@+id/registerCancelBtn"
+        android:id="@+id/registerBackBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="300dp"
-        android:text="Cancelar"
+        android:onClick="goToLogin"
+        android:text="Volver"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

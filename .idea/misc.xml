@@ -7,7 +7,7 @@
         <entry key="app/src/main/res/layout/activity_access_vault.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_delete_password.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/activity_register.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_save_password.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_update_password.xml" value="0.1" />
       </map>
